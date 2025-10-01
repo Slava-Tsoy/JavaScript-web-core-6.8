@@ -5,4 +5,4 @@
 ## Результат
 
 - [Github репозиторий](https://github.com/Slava-Tsoy/JavaScript-web-core-6.8.git)
-- [Github Pages](https://slava-tsoy.github.io/JavaScript-web-core-5.9/)
+- [Github Pages](https://slava-tsoy.github.io/JavaScript-web-core-6.8/)
